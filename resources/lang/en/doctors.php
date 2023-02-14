@@ -1,0 +1,53 @@
+<?php
+
+return[
+
+'add_doctors' => 'Add Doctor',
+'gender' => 'Gender',
+'password' => 'password',
+'category' =>'category',
+'email' => 'email',
+'from_date' => 'From Date',
+'end_date' =>'End Date',
+'address' =>'Address',
+'description' => 'Description',
+'name_ar' => 'Arabic Name',
+'name_en' => 'English Name',
+'next' => 'Next',
+'doctors' => 'Doctors',
+'phone' =>'Phone',
+'image' => 'Image',
+'doctors_delete_warrning' => 'Are You Sure To Delete This Doctor ?',
+'doctors_delete' => 'Delete Doctor',
+'doctors' => 'Doctor',
+'status'=>'Status',
+'details' => 'Detail',
+'date' => 'Date',
+'Task' => 'Task',
+'Patient' => 'Patient',
+'dure' => 'Dure',
+'Hour' => 'Hour',
+'Hours' => 'Hours',
+'tow_Hours' =>'Hours',
+'Hour_and_half' =>'Hour and Half',
+'operation' => 'Operation',
+'price' => 'Price',
+'devise' => 'DH',
+'list_doctor' => 'Doctors List',
+'edite_doctor' => ' Edit Doctor',
+'operation_delete_warrning' => ' Are You Sure To Delete This Operation ? ',
+'patient_delete_warrning' => 'Are You Sure To Delete This Patient ? ',
+'room_delete_warrning' => '  Are You Sure To Delete This Room ?',
+'invoice_delete_warrning' => 'Are You Sure To Delete This Invoice ? ',
+'chose_image' => ' Chose Photo ',
+'invoicePaid' => ' Invoices Paid',
+'invoiceNotPaid' => 'Invoices Not Paid',
+'PatientOutHoppital' => 'Patients Out Hopital',
+'PatientOnHoppital'  => 'Patients On Hopital',
+'topOperation' => 'Top Operation Price',
+'name' => 'Name',
+
+
+
+
+];
